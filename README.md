@@ -1,7 +1,7 @@
 ## Hi there 👋
 <picture>
    <source media="(prefers-color-scheme: dark)" srcset="art/header-dark.png">
-   <img alt="Logo for AI Developer | Full-Stack Builder | IoT Innovator" src="art/header-light.png">
+   <img alt="Logo for AI Developer | Full-Stack Builder | IoT Innovator" src="art/header-dark.png">
 </picture>
 <!--
 **hirematarohi777/hirematarohi777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
