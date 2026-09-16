@@ -28,7 +28,7 @@
 
 <div align="center">
   <img
-    src="https://raw.githubusercontent.com/hirematarohi777/hirematarohi777/main/assets/whoami.svg"
+    src="https://raw.githubusercontent.com/hirematarohi777/hirematarohi777/main/assets/whoami-ironman.svg"
     alt="HM Rohith whoami"
     width="100%"
   >
