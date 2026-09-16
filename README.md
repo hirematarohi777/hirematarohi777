@@ -27,9 +27,11 @@
 ## 🖥️ whoami
 
 <div align="center">
-
-<img src="./assets/whoami.svg" alt="whoami" width="100%">
-
+  <img
+    src="https://raw.githubusercontent.com/hirematarohi777/hirematarohi777/main/assets/whoami.svg"
+    alt="HM Rohith whoami"
+    width="100%"
+  >
 </div>
 
 <br>
