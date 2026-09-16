@@ -204,7 +204,7 @@ An IoT-powered emergency traffic management system designed to create a **Green 
 
 <div align="center">
 
-<img src="./profile-3d-contrib/profile-season-animate.svg" alt="3D contribution graph">
+<img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph">
 
 </div>
 
