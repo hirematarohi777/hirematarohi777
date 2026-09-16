@@ -204,7 +204,7 @@ An IoT-powered emergency traffic management system designed to create a **Green 
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hirematarohi777&theme=tokyo-night&hide_border=true&area=true" width="95%">
+<img src="./profile-3d-contrib/profile-season-animate.svg" alt="3D contribution graph">
 
 </div>
 
