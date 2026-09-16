@@ -2,8 +2,8 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="art/header-dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="art/header-light.png">
-  <img alt="AI Developer | Full-Stack Builder | IoT Innovator" src="art/header-light.png">
+  <source media="(prefers-color-scheme: light)" srcset="art/header-dark.png">
+  <img alt="AI Developer | Full-Stack Builder | IoT Innovator" src="art/header-dark.png">
 </picture>
 
 # 💫 About Me
